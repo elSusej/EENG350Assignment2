@@ -1,0 +1,1 @@
+Scripts and simulations created to solve exercise 1b and 2a found in Localization and Control Assignment. Most important documentation found in motorControlAdvanced.ino and Runcontrolsim.html (or the pdf version; contain the exact same information)
